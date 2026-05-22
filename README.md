@@ -14,7 +14,8 @@ This project does not need any firmware as it uses ready made components which I
 <img width="2167" height="1456" alt="Screenshot 2026-04-02 160835" src="https://github.com/user-attachments/assets/b4331f26-40da-4e8b-a7cc-f345c28ec29b" />
 
 # Wiring Diagram pictures
-<img width="960" height="720" alt="Wiring diagram" src="https://github.com/user-attachments/assets/7c588161-d445-4c90-935f-a558ce35eae2" />
+<img width="960" height="720" alt="Wiring diagram" src="https://github.com/user-attachments/assets/9fb1c785-21d9-49f8-85e0-74cdbda58ebf" />
+
 
 # BOM
 | Name                                           | Purpose                                                                                          | Quantity | Total Cost (USD) | Link                                                                 | Distributor            |
